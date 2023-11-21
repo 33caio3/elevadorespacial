@@ -43,7 +43,6 @@ header h4{
     text-align: center;
     line-height: 0.70em;
     outline: none;
-    animation: animate 5s linear infinite;
 }
 
 @keyframes animate{
