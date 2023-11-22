@@ -13,6 +13,10 @@ header{
     font-size:  x-large;
 }
 
+.imagens aside{
+    font-size: 10px;
+}
+
 header h1{
     position: relative;
     color: #FBAE3C;
